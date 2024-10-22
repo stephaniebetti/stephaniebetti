@@ -16,7 +16,7 @@ _____________________________________________________________________
 
 - Programming Languages: Python, Java and Ruby (learning the basics)
 - Web Development: HTML, CSS and JavaScript (learning the basics)
-- Tools: Git, Visual Studio Code
+- Tools: Visual Studio Code
 - Databases: MySQL (learning the basics)
 
 _____________________________________________________________________
