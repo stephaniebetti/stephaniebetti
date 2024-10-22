@@ -6,7 +6,7 @@ _____________________________________________________________________
 👨‍💻 About Me
 
 - 🌱 I’m currently learning: Ruby, Python, HTML, Java and JavaScript
-- 🔭 Working on: Small projects to understand algorithms, data structures, and web development basics
+- 🔭 Working on: Small projects to understand algorithms, data structures and web development basics
 - 🎯 My goal: To become a proficient software developer and contribute to open-source projects
 - 💡 Fun fact: I love souls like games and open world games
 
