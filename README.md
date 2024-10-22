@@ -14,8 +14,8 @@ _____________________________________________________________________
 
 ⚒️ Technologies and Tools I’m Exploring
 
-- Programming Languages: Python, Java and Ruby
-- Web Development: HTML, CSS, and beginner-level JavaScript
+- Programming Languages: Python, Java and Ruby (learning the basics)
+- Web Development: HTML, CSS and JavaScript (learning the basics)
 - Tools: Git, Visual Studio Code
 - Databases: MySQL (learning the basics)
 
