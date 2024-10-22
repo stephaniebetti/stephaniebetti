@@ -4,7 +4,7 @@ I'm a beginner programmer eager to learn, explore, and grow in the world of tech
 
 👨‍💻 About Me
 
-🌱 I’m currently learning: [Languages/Technologies you are focusing on]
+🌱 I’m currently learning: Ruby, Python, Html, Java and JavaScript
 🔭 Working on: Small projects to understand algorithms, data structures, and web development basics
 🎯 My goal: To become a proficient software developer and contribute to open-source projects
 💡 Fun fact: I love souls like games and open world games
